@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-### Hi there! 👋
-
 I am a Senior Software Engineer specializing in backend applications, databases, cloud solutions, CI/CD, and more.
 
 - 🔭 I’m currently working on developing scalable fintech solutions and cloud-native architectures.
